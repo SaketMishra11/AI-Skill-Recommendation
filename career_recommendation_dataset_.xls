@@ -1,0 +1,1001 @@
+id,job_role,skills
+1,Frontend Developer,ui/ux angular css typescript javascript
+2,Backend Developer,flask django python linux sql
+3,Business Analyst,reporting business intelligence excel sql data analysis
+4,Frontend Developer,javascript react css typescript angular ui/ux
+5,Frontend Developer,angular css react html ui/ux typescript
+6,Backend Developer,docker django linux flask sql
+7,Data Analyst,pandas excel statistics tableau sql
+8,DevOps Engineer,aws terraform ci/cd docker linux kubernetes
+9,AI Engineer,neural networks python pytorch deep learning nlp tensorflow
+10,Data Analyst,tableau excel python sql statistics
+11,Frontend Developer,angular typescript css ui/ux
+12,Web Developer,javascript git css react nodejs
+13,Frontend Developer,typescript ui/ux angular react javascript
+14,Backend Developer,flask python sql linux
+15,Machine Learning Engineer,python deep learning pytorch scikit-learn machine learning mlops
+16,Machine Learning Engineer,deep learning python pytorch mlops machine learning tensorflow
+17,Database Administrator,database design postgresql backup performance tuning sql
+18,Business Analyst,reporting powerbi sql data analysis
+19,Data Scientist,pandas numpy scikit-learn data visualization python
+20,DevOps Engineer,terraform docker ci/cd monitoring
+21,Data Analyst,tableau excel python sql powerbi statistics
+22,Data Scientist,pandas data visualization statistics scikit-learn python
+23,Database Administrator,postgresql backup sql mysql
+24,Data Scientist,machine learning data visualization deep learning pandas python scikit-learn
+25,Web Developer,html nodejs react javascript css
+26,Backend Developer,docker flask sql django python
+27,Frontend Developer,react typescript ui/ux javascript css html
+28,Web Developer,nodejs react git html javascript
+29,Business Analyst,excel tableau business intelligence reporting
+30,AI Engineer,pytorch tensorflow deep learning neural networks python
+31,Web Developer,javascript responsive design html css react
+32,Data Analyst,sql statistics tableau excel powerbi
+33,Database Administrator,backup database design mysql security performance tuning
+34,Data Scientist,deep learning python data visualization numpy
+35,Data Scientist,scikit-learn python statistics numpy
+36,Machine Learning Engineer,deep learning mlops scikit-learn machine learning
+37,Data Analyst,pandas powerbi excel data analysis tableau python
+38,Frontend Developer,css html angular javascript react
+39,Data Scientist,data visualization machine learning deep learning statistics
+40,AI Engineer,python pytorch deep learning nlp
+41,Database Administrator,security performance tuning sql postgresql
+42,AI Engineer,python tensorflow pytorch deep learning neural networks
+43,Machine Learning Engineer,tensorflow deep learning pytorch scikit-learn
+44,Data Analyst,data analysis statistics excel pandas python sql
+45,AI Engineer,tensorflow python nlp neural networks pytorch deep learning
+46,Business Analyst,excel business intelligence data analysis powerbi
+47,Data Scientist,numpy scikit-learn python machine learning deep learning
+48,Data Analyst,data analysis tableau sql powerbi excel
+49,Backend Developer,linux flask python docker api sql
+50,Frontend Developer,html ui/ux react angular javascript
+51,DevOps Engineer,kubernetes aws ci/cd monitoring terraform docker
+52,Frontend Developer,javascript typescript react angular html
+53,AI Engineer,nlp pytorch deep learning python tensorflow neural networks
+54,Frontend Developer,css html angular typescript
+55,Business Analyst,data analysis business intelligence excel tableau reporting sql
+56,Backend Developer,python sql flask docker api linux
+57,Backend Developer,django linux docker api
+58,Data Analyst,data analysis python pandas sql statistics tableau
+59,Frontend Developer,ui/ux typescript angular css html
+60,Business Analyst,powerbi excel reporting data analysis
+61,Web Developer,javascript html git css responsive design nodejs
+62,Data Scientist,machine learning data visualization pandas numpy scikit-learn
+63,Data Analyst,powerbi tableau excel sql python
+64,Backend Developer,flask sql linux django docker
+65,Database Administrator,performance tuning database design mysql backup
+66,Web Developer,css nodejs responsive design git react
+67,Web Developer,nodejs responsive design css react javascript
+68,Machine Learning Engineer,python scikit-learn machine learning tensorflow
+69,Web Developer,git html nodejs javascript css responsive design
+70,Database Administrator,security performance tuning postgresql mysql database design sql
+71,Frontend Developer,css html typescript ui/ux angular javascript
+72,Data Scientist,deep learning statistics scikit-learn machine learning
+73,DevOps Engineer,ci/cd linux kubernetes monitoring
+74,Frontend Developer,ui/ux typescript angular css javascript
+75,Backend Developer,linux sql flask django python api
+76,Data Analyst,powerbi sql python pandas
+77,Business Analyst,excel sql business intelligence data analysis reporting powerbi
+78,Data Analyst,data analysis python excel statistics sql pandas
+79,AI Engineer,neural networks deep learning tensorflow pytorch
+80,Frontend Developer,ui/ux angular css react typescript html
+81,Database Administrator,postgresql database design sql performance tuning mysql security
+82,AI Engineer,python pytorch neural networks nlp deep learning
+83,Machine Learning Engineer,mlops pytorch machine learning tensorflow
+84,Machine Learning Engineer,deep learning python mlops pytorch tensorflow
+85,Database Administrator,database design performance tuning sql mysql
+86,Data Scientist,pandas data visualization scikit-learn numpy python
+87,DevOps Engineer,docker ci/cd monitoring aws kubernetes terraform
+88,DevOps Engineer,kubernetes monitoring aws linux terraform
+89,Web Developer,nodejs javascript css html responsive design git
+90,Machine Learning Engineer,machine learning deep learning python mlops scikit-learn
+91,Web Developer,javascript git responsive design nodejs
+92,Data Scientist,numpy scikit-learn pandas data visualization python machine learning
+93,DevOps Engineer,aws docker linux monitoring kubernetes terraform
+94,DevOps Engineer,docker terraform monitoring aws linux ci/cd
+95,Data Analyst,pandas python excel statistics powerbi data analysis
+96,Business Analyst,reporting powerbi data analysis sql business intelligence
+97,Database Administrator,database design performance tuning postgresql backup sql security
+98,AI Engineer,nlp pytorch neural networks deep learning tensorflow python
+99,Backend Developer,sql flask python api django
+100,Database Administrator,backup sql mysql postgresql database design
+101,Backend Developer,flask django api linux
+102,Data Scientist,numpy statistics scikit-learn data visualization
+103,Machine Learning Engineer,tensorflow deep learning scikit-learn python pytorch
+104,AI Engineer,pytorch neural networks deep learning nlp tensorflow python
+105,Business Analyst,reporting powerbi data analysis sql excel
+106,Machine Learning Engineer,mlops tensorflow deep learning python pytorch scikit-learn
+107,Business Analyst,tableau data analysis business intelligence sql powerbi reporting
+108,Backend Developer,docker api django flask python sql
+109,Backend Developer,python api flask docker
+110,DevOps Engineer,terraform docker monitoring ci/cd linux aws
+111,Web Developer,html javascript nodejs css git
+112,Backend Developer,python flask linux docker
+113,Database Administrator,sql backup postgresql performance tuning database design
+114,Database Administrator,backup database design sql performance tuning
+115,Database Administrator,sql backup database design security postgresql performance tuning
+116,Database Administrator,performance tuning sql backup database design postgresql mysql
+117,Data Scientist,numpy pandas statistics scikit-learn python deep learning
+118,Machine Learning Engineer,mlops scikit-learn python pytorch deep learning tensorflow
+119,Business Analyst,excel powerbi business intelligence data analysis
+120,Backend Developer,django linux python sql
+121,Data Analyst,statistics pandas sql excel
+122,Web Developer,react css responsive design git javascript
+123,Backend Developer,django flask api docker
+124,Machine Learning Engineer,scikit-learn machine learning deep learning mlops pytorch
+125,Machine Learning Engineer,scikit-learn tensorflow machine learning python pytorch
+126,DevOps Engineer,aws kubernetes monitoring terraform linux
+127,Business Analyst,reporting business intelligence excel tableau
+128,Backend Developer,flask linux django api
+129,DevOps Engineer,monitoring linux docker kubernetes
+130,DevOps Engineer,linux aws ci/cd docker terraform kubernetes
+131,Machine Learning Engineer,mlops tensorflow pytorch python
+132,Backend Developer,docker sql django python api linux
+133,Backend Developer,linux api python sql
+134,Web Developer,react responsive design html git css nodejs
+135,Web Developer,css javascript responsive design nodejs git react
+136,Data Analyst,statistics python tableau powerbi
+137,AI Engineer,neural networks tensorflow python pytorch nlp
+138,Business Analyst,powerbi excel data analysis tableau
+139,Data Scientist,deep learning scikit-learn python statistics data visualization
+140,Database Administrator,database design postgresql security backup
+141,AI Engineer,python pytorch neural networks tensorflow nlp deep learning
+142,Data Analyst,tableau statistics sql powerbi excel
+143,Business Analyst,reporting tableau sql excel business intelligence powerbi
+144,Business Analyst,sql excel data analysis reporting powerbi tableau
+145,Machine Learning Engineer,tensorflow scikit-learn machine learning mlops python
+146,Machine Learning Engineer,python scikit-learn deep learning tensorflow
+147,AI Engineer,nlp python tensorflow neural networks
+148,Web Developer,css react nodejs git responsive design
+149,AI Engineer,pytorch neural networks python tensorflow
+150,Data Scientist,python numpy pandas machine learning deep learning statistics
+151,AI Engineer,neural networks pytorch nlp deep learning
+152,Business Analyst,sql reporting excel data analysis business intelligence tableau
+153,DevOps Engineer,terraform monitoring docker linux kubernetes
+154,Backend Developer,django linux python api sql
+155,AI Engineer,nlp python deep learning pytorch tensorflow neural networks
+156,AI Engineer,deep learning pytorch nlp python neural networks tensorflow
+157,Web Developer,nodejs css responsive design javascript
+158,Backend Developer,docker sql flask linux api
+159,Backend Developer,python linux sql api
+160,AI Engineer,python tensorflow pytorch nlp neural networks deep learning
+161,Machine Learning Engineer,pytorch machine learning python scikit-learn
+162,Machine Learning Engineer,tensorflow pytorch scikit-learn machine learning python
+163,Data Scientist,deep learning numpy data visualization statistics python scikit-learn
+164,AI Engineer,tensorflow neural networks deep learning python nlp
+165,Backend Developer,linux docker api python
+166,Frontend Developer,html css typescript javascript react angular
+167,Machine Learning Engineer,scikit-learn deep learning python machine learning mlops
+168,Frontend Developer,typescript html javascript css react ui/ux
+169,DevOps Engineer,kubernetes terraform monitoring linux
+170,AI Engineer,pytorch neural networks python nlp deep learning
+171,Backend Developer,django sql api linux
+172,Data Scientist,pandas statistics data visualization machine learning
+173,Business Analyst,excel powerbi business intelligence data analysis reporting tableau
+174,Web Developer,responsive design css react javascript
+175,DevOps Engineer,docker monitoring aws kubernetes
+176,Web Developer,css react javascript git
+177,Data Analyst,powerbi python statistics tableau
+178,Data Analyst,statistics python pandas tableau sql
+179,Data Analyst,python data analysis statistics pandas sql
+180,Backend Developer,docker flask python api
+181,Backend Developer,linux python flask api docker
+182,Business Analyst,powerbi business intelligence tableau reporting
+183,Frontend Developer,react javascript css html
+184,DevOps Engineer,docker aws monitoring ci/cd
+185,Frontend Developer,react html javascript css angular
+186,Machine Learning Engineer,mlops deep learning scikit-learn tensorflow python
+187,Web Developer,responsive design css react html
+188,Web Developer,javascript git css nodejs html responsive design
+189,DevOps Engineer,monitoring ci/cd terraform kubernetes linux aws
+190,Business Analyst,reporting tableau business intelligence data analysis excel powerbi
+191,Frontend Developer,css ui/ux html typescript javascript angular
+192,Backend Developer,api python sql django docker
+193,Data Analyst,powerbi excel tableau statistics sql data analysis
+194,Web Developer,react css responsive design javascript git
+195,Machine Learning Engineer,python machine learning scikit-learn mlops
+196,Machine Learning Engineer,machine learning python tensorflow scikit-learn deep learning pytorch
+197,Business Analyst,powerbi data analysis reporting excel business intelligence
+198,Database Administrator,sql database design performance tuning backup
+199,Machine Learning Engineer,mlops deep learning python scikit-learn pytorch machine learning
+200,Business Analyst,sql tableau excel data analysis business intelligence reporting
+201,Web Developer,html git responsive design react
+202,AI Engineer,neural networks python pytorch nlp tensorflow
+203,AI Engineer,pytorch nlp deep learning neural networks python tensorflow
+204,Backend Developer,python linux api docker django flask
+205,AI Engineer,pytorch nlp tensorflow neural networks deep learning python
+206,DevOps Engineer,terraform ci/cd docker monitoring
+207,Machine Learning Engineer,deep learning mlops scikit-learn machine learning pytorch
+208,Business Analyst,powerbi reporting excel data analysis tableau
+209,Database Administrator,database design backup mysql sql performance tuning
+210,Web Developer,html javascript nodejs responsive design css git
+211,Database Administrator,security performance tuning backup database design
+212,Frontend Developer,javascript css ui/ux react angular
+213,Backend Developer,linux sql api docker
+214,Frontend Developer,react ui/ux html css
+215,Backend Developer,linux sql python docker django
+216,AI Engineer,nlp pytorch python neural networks tensorflow
+217,Machine Learning Engineer,deep learning pytorch tensorflow scikit-learn mlops machine learning
+218,Business Analyst,data analysis reporting sql tableau
+219,DevOps Engineer,aws kubernetes terraform monitoring ci/cd docker
+220,Data Scientist,machine learning statistics python numpy data visualization
+221,Data Analyst,powerbi pandas tableau statistics
+222,DevOps Engineer,linux aws docker monitoring kubernetes
+223,Backend Developer,linux flask docker django
+224,Data Analyst,sql statistics powerbi pandas python tableau
+225,Data Scientist,machine learning data visualization numpy deep learning
+226,Frontend Developer,react typescript javascript html
+227,Data Analyst,statistics sql powerbi data analysis
+228,Web Developer,nodejs responsive design css react html
+229,AI Engineer,nlp pytorch tensorflow neural networks python deep learning
+230,Machine Learning Engineer,pytorch python scikit-learn machine learning mlops
+231,Database Administrator,backup sql database design performance tuning postgresql security
+232,Business Analyst,excel powerbi sql tableau
+233,Backend Developer,django python linux sql docker
+234,AI Engineer,nlp tensorflow python deep learning pytorch
+235,DevOps Engineer,terraform aws kubernetes ci/cd
+236,Frontend Developer,javascript ui/ux typescript angular
+237,Backend Developer,api flask django python
+238,Backend Developer,linux docker django sql
+239,AI Engineer,nlp pytorch deep learning python neural networks
+240,DevOps Engineer,terraform linux monitoring aws docker
+241,Machine Learning Engineer,scikit-learn python deep learning tensorflow pytorch mlops
+242,Machine Learning Engineer,pytorch mlops machine learning scikit-learn
+243,Database Administrator,postgresql performance tuning security mysql sql database design
+244,AI Engineer,pytorch nlp neural networks tensorflow deep learning
+245,DevOps Engineer,linux monitoring docker ci/cd kubernetes
+246,Frontend Developer,css typescript react ui/ux angular
+247,Machine Learning Engineer,pytorch deep learning tensorflow mlops python scikit-learn
+248,Data Scientist,deep learning statistics pandas data visualization python machine learning
+249,Frontend Developer,css react angular ui/ux html javascript
+250,DevOps Engineer,kubernetes linux docker monitoring ci/cd
+251,Machine Learning Engineer,python deep learning pytorch tensorflow
+252,Backend Developer,linux docker python sql
+253,AI Engineer,deep learning neural networks pytorch nlp python
+254,Frontend Developer,javascript html css react
+255,Web Developer,css react html responsive design javascript
+256,Data Analyst,statistics powerbi pandas tableau data analysis excel
+257,Web Developer,html css responsive design nodejs javascript git
+258,DevOps Engineer,kubernetes aws terraform monitoring
+259,Machine Learning Engineer,tensorflow machine learning deep learning pytorch mlops scikit-learn
+260,DevOps Engineer,aws monitoring terraform kubernetes linux
+261,Data Scientist,numpy deep learning python machine learning pandas
+262,Data Analyst,pandas statistics tableau powerbi sql
+263,Frontend Developer,typescript react angular html ui/ux javascript
+264,Data Analyst,data analysis excel tableau powerbi
+265,Machine Learning Engineer,deep learning tensorflow machine learning scikit-learn
+266,Machine Learning Engineer,mlops scikit-learn python deep learning machine learning tensorflow
+267,Business Analyst,powerbi business intelligence reporting excel data analysis
+268,Database Administrator,backup mysql performance tuning sql
+269,Data Scientist,pandas deep learning scikit-learn numpy machine learning statistics
+270,Frontend Developer,css typescript react angular
+271,Web Developer,javascript react responsive design git css nodejs
+272,Web Developer,responsive design react git html css javascript
+273,Database Administrator,sql mysql postgresql backup security performance tuning
+274,Data Analyst,python powerbi sql statistics excel data analysis
+275,Backend Developer,flask docker linux sql python
+276,Data Analyst,tableau powerbi excel pandas
+277,Database Administrator,mysql performance tuning database design postgresql backup
+278,Backend Developer,docker linux flask sql
+279,DevOps Engineer,aws terraform monitoring docker
+280,Frontend Developer,angular javascript html ui/ux
+281,Data Scientist,scikit-learn deep learning python numpy machine learning
+282,Backend Developer,flask django python docker linux api
+283,Machine Learning Engineer,tensorflow pytorch machine learning scikit-learn deep learning python
+284,Machine Learning Engineer,python machine learning scikit-learn tensorflow mlops
+285,Web Developer,javascript nodejs responsive design html css
+286,Data Scientist,numpy machine learning scikit-learn deep learning data visualization python
+287,DevOps Engineer,kubernetes terraform aws docker ci/cd
+288,Backend Developer,linux python sql django
+289,Backend Developer,docker python sql django api flask
+290,Data Scientist,machine learning python deep learning data visualization scikit-learn numpy
+291,Database Administrator,security performance tuning database design backup sql
+292,AI Engineer,nlp tensorflow pytorch deep learning
+293,Business Analyst,tableau sql reporting excel data analysis business intelligence
+294,Machine Learning Engineer,python scikit-learn machine learning deep learning tensorflow
+295,Database Administrator,backup postgresql performance tuning mysql
+296,Data Analyst,excel statistics powerbi pandas tableau
+297,Business Analyst,data analysis reporting tableau excel sql business intelligence
+298,Business Analyst,excel business intelligence tableau data analysis reporting powerbi
+299,Backend Developer,api sql linux flask
+300,Business Analyst,reporting powerbi tableau data analysis business intelligence
+301,Frontend Developer,css typescript ui/ux angular
+302,Data Scientist,deep learning numpy data visualization pandas scikit-learn
+303,Frontend Developer,html ui/ux react angular typescript
+304,Database Administrator,database design postgresql security sql
+305,AI Engineer,neural networks pytorch deep learning tensorflow python nlp
+306,Machine Learning Engineer,tensorflow scikit-learn deep learning pytorch mlops
+307,Data Analyst,data analysis excel pandas tableau statistics powerbi
+308,Database Administrator,backup performance tuning sql database design mysql postgresql
+309,Data Scientist,pandas machine learning statistics scikit-learn python deep learning
+310,Backend Developer,api docker linux django
+311,Business Analyst,powerbi business intelligence tableau sql excel reporting
+312,Web Developer,nodejs responsive design react javascript git
+313,Database Administrator,postgresql performance tuning security database design sql mysql
+314,Web Developer,css react git html nodejs javascript
+315,Frontend Developer,ui/ux react html css
+316,Machine Learning Engineer,machine learning deep learning tensorflow pytorch
+317,Data Scientist,pandas scikit-learn data visualization machine learning
+318,Data Scientist,machine learning python numpy data visualization scikit-learn
+319,Machine Learning Engineer,pytorch scikit-learn deep learning python
+320,Backend Developer,python linux sql api django
+321,Business Analyst,sql reporting tableau business intelligence powerbi
+322,Web Developer,responsive design react git javascript
+323,Backend Developer,linux docker sql api flask
+324,Data Analyst,tableau excel data analysis python pandas
+325,DevOps Engineer,aws linux ci/cd docker
+326,Data Analyst,pandas tableau statistics powerbi python
+327,Web Developer,react git javascript html css responsive design
+328,Data Scientist,machine learning pandas statistics numpy
+329,Data Scientist,data visualization python pandas deep learning
+330,Web Developer,responsive design html git javascript react css
+331,Backend Developer,linux docker flask api django
+332,Data Analyst,excel python tableau sql
+333,Data Scientist,deep learning pandas python statistics scikit-learn machine learning
+334,Business Analyst,reporting sql business intelligence tableau excel
+335,Database Administrator,postgresql security database design backup
+336,Machine Learning Engineer,python mlops pytorch machine learning deep learning
+337,Data Analyst,excel pandas powerbi data analysis python
+338,Machine Learning Engineer,pytorch python tensorflow mlops
+339,Data Scientist,pandas statistics data visualization numpy scikit-learn machine learning
+340,Data Scientist,statistics scikit-learn machine learning deep learning python
+341,Backend Developer,docker api flask django python
+342,Web Developer,nodejs responsive design html css javascript
+343,Database Administrator,backup sql mysql database design
+344,Machine Learning Engineer,tensorflow mlops pytorch machine learning
+345,AI Engineer,pytorch neural networks python deep learning nlp
+346,AI Engineer,deep learning nlp neural networks python pytorch tensorflow
+347,Web Developer,react css git html
+348,Business Analyst,tableau sql powerbi data analysis reporting
+349,Frontend Developer,ui/ux typescript css react html
+350,Data Analyst,data analysis sql excel statistics tableau python
+351,Machine Learning Engineer,mlops python deep learning pytorch
+352,Data Scientist,numpy data visualization statistics deep learning
+353,AI Engineer,deep learning pytorch nlp python neural networks tensorflow
+354,Data Scientist,statistics pandas data visualization scikit-learn machine learning
+355,Data Analyst,powerbi statistics tableau pandas sql
+356,AI Engineer,deep learning pytorch python neural networks nlp
+357,Machine Learning Engineer,python pytorch machine learning deep learning mlops
+358,Database Administrator,performance tuning postgresql database design security
+359,Data Analyst,powerbi data analysis statistics python tableau excel
+360,Business Analyst,reporting excel sql data analysis business intelligence powerbi
+361,DevOps Engineer,aws docker terraform linux ci/cd monitoring
+362,DevOps Engineer,linux ci/cd kubernetes terraform
+363,DevOps Engineer,kubernetes aws docker monitoring
+364,DevOps Engineer,monitoring aws linux ci/cd kubernetes docker
+365,Web Developer,git react responsive design nodejs css javascript
+366,Web Developer,javascript nodejs responsive design css html
+367,AI Engineer,tensorflow neural networks nlp pytorch python deep learning
+368,Data Analyst,statistics pandas excel powerbi
+369,Database Administrator,security backup database design performance tuning postgresql mysql
+370,AI Engineer,python nlp pytorch tensorflow
+371,DevOps Engineer,aws monitoring ci/cd kubernetes linux docker
+372,Backend Developer,sql api docker linux flask
+373,Data Analyst,python pandas tableau powerbi
+374,Data Scientist,machine learning numpy statistics python
+375,Business Analyst,reporting tableau sql excel business intelligence
+376,Business Analyst,powerbi sql tableau excel data analysis reporting
+377,Data Scientist,deep learning python statistics data visualization pandas
+378,Data Analyst,tableau powerbi python pandas statistics
+379,AI Engineer,neural networks pytorch tensorflow deep learning
+380,AI Engineer,deep learning python pytorch nlp
+381,AI Engineer,pytorch python tensorflow neural networks
+382,Data Analyst,python powerbi statistics tableau sql data analysis
+383,AI Engineer,pytorch python nlp neural networks tensorflow
+384,Business Analyst,sql excel business intelligence tableau
+385,Frontend Developer,typescript angular react html
+386,Database Administrator,backup postgresql security sql database design mysql
+387,Backend Developer,django linux python docker
+388,Backend Developer,django linux sql python
+389,Frontend Developer,javascript react angular css
+390,AI Engineer,deep learning nlp tensorflow python
+391,AI Engineer,tensorflow deep learning nlp python
+392,AI Engineer,python deep learning neural networks nlp pytorch
+393,Backend Developer,flask api docker sql linux python
+394,Frontend Developer,css html angular typescript javascript react
+395,Web Developer,css responsive design nodejs react javascript html
+396,Web Developer,react css html git responsive design
+397,Data Scientist,scikit-learn numpy machine learning data visualization
+398,Machine Learning Engineer,scikit-learn deep learning machine learning tensorflow python
+399,DevOps Engineer,docker linux monitoring terraform kubernetes
+400,Data Scientist,pandas statistics deep learning numpy scikit-learn python
+401,Machine Learning Engineer,machine learning deep learning mlops pytorch
+402,AI Engineer,python deep learning neural networks nlp
+403,Machine Learning Engineer,python machine learning scikit-learn deep learning pytorch mlops
+404,Database Administrator,database design postgresql sql mysql
+405,AI Engineer,neural networks tensorflow deep learning python
+406,Data Scientist,statistics deep learning numpy python
+407,Data Scientist,data visualization numpy machine learning scikit-learn statistics
+408,DevOps Engineer,linux docker monitoring ci/cd terraform
+409,Frontend Developer,html css javascript ui/ux
+410,Backend Developer,docker linux python sql flask
+411,Data Analyst,sql tableau statistics excel powerbi
+412,Business Analyst,business intelligence sql reporting tableau data analysis
+413,Frontend Developer,javascript react typescript html
+414,Web Developer,css responsive design javascript html
+415,DevOps Engineer,linux aws terraform monitoring ci/cd docker
+416,Business Analyst,sql data analysis business intelligence excel tableau powerbi
+417,Machine Learning Engineer,machine learning deep learning mlops python pytorch scikit-learn
+418,Backend Developer,docker python sql linux api flask
+419,Backend Developer,sql api flask linux
+420,Business Analyst,excel business intelligence reporting powerbi data analysis
+421,Machine Learning Engineer,machine learning mlops deep learning python pytorch scikit-learn
+422,Frontend Developer,typescript react javascript html angular
+423,Data Analyst,data analysis sql python powerbi excel
+424,Backend Developer,sql docker django python
+425,AI Engineer,deep learning tensorflow python nlp pytorch neural networks
+426,DevOps Engineer,aws docker linux kubernetes ci/cd
+427,Frontend Developer,html css typescript angular javascript
+428,Frontend Developer,html javascript ui/ux typescript react angular
+429,Web Developer,git nodejs responsive design javascript
+430,Web Developer,css responsive design html git
+431,Business Analyst,business intelligence excel powerbi tableau reporting sql
+432,Frontend Developer,javascript angular react typescript ui/ux
+433,DevOps Engineer,ci/cd monitoring terraform aws
+434,Frontend Developer,html angular javascript typescript css
+435,Data Scientist,scikit-learn data visualization pandas machine learning statistics deep learning
+436,DevOps Engineer,kubernetes monitoring ci/cd linux docker terraform
+437,Database Administrator,performance tuning database design sql backup postgresql security
+438,Business Analyst,business intelligence data analysis reporting sql
+439,Database Administrator,postgresql performance tuning security backup sql mysql
+440,Business Analyst,reporting sql data analysis powerbi
+441,DevOps Engineer,terraform docker linux aws monitoring kubernetes
+442,AI Engineer,deep learning neural networks tensorflow python nlp pytorch
+443,DevOps Engineer,docker ci/cd terraform monitoring
+444,AI Engineer,nlp deep learning python pytorch neural networks tensorflow
+445,Database Administrator,sql database design security backup
+446,Web Developer,nodejs git responsive design html css react
+447,Frontend Developer,html angular typescript css
+448,Business Analyst,tableau data analysis business intelligence reporting sql
+449,Database Administrator,postgresql database design sql backup
+450,Database Administrator,postgresql performance tuning sql security database design
+451,Frontend Developer,css react angular typescript
+452,Backend Developer,sql docker flask linux django
+453,Web Developer,javascript html responsive design react git nodejs
+454,Data Analyst,powerbi excel python data analysis sql tableau
+455,Data Scientist,pandas data visualization machine learning python statistics deep learning
+456,Database Administrator,backup mysql postgresql performance tuning security database design
+457,AI Engineer,deep learning nlp python neural networks tensorflow pytorch
+458,Machine Learning Engineer,tensorflow pytorch deep learning mlops
+459,Machine Learning Engineer,python machine learning pytorch mlops scikit-learn deep learning
+460,DevOps Engineer,kubernetes aws monitoring terraform ci/cd
+461,AI Engineer,deep learning pytorch neural networks python tensorflow
+462,Data Scientist,machine learning deep learning python pandas statistics
+463,Machine Learning Engineer,python pytorch mlops scikit-learn machine learning
+464,Frontend Developer,typescript html ui/ux angular
+465,DevOps Engineer,aws ci/cd docker kubernetes linux terraform
+466,Business Analyst,excel data analysis powerbi sql reporting
+467,DevOps Engineer,ci/cd monitoring linux docker aws
+468,Data Analyst,statistics pandas excel tableau
+469,AI Engineer,nlp python pytorch neural networks
+470,Machine Learning Engineer,machine learning mlops tensorflow deep learning
+471,Data Scientist,statistics deep learning scikit-learn numpy data visualization pandas
+472,Machine Learning Engineer,pytorch scikit-learn python machine learning mlops deep learning
+473,Database Administrator,database design security postgresql backup
+474,Data Analyst,statistics data analysis python sql
+475,Data Scientist,statistics numpy machine learning data visualization pandas
+476,AI Engineer,tensorflow python pytorch neural networks
+477,Data Scientist,machine learning pandas deep learning numpy python scikit-learn
+478,Data Analyst,excel statistics python tableau data analysis powerbi
+479,Data Analyst,sql statistics tableau python data analysis powerbi
+480,Business Analyst,sql powerbi data analysis tableau business intelligence reporting
+481,Frontend Developer,ui/ux css javascript typescript angular
+482,Business Analyst,data analysis sql tableau reporting
+483,Web Developer,javascript react git css responsive design
+484,Business Analyst,tableau business intelligence sql reporting powerbi excel
+485,Machine Learning Engineer,machine learning deep learning python mlops scikit-learn pytorch
+486,Backend Developer,docker sql django flask
+487,Web Developer,javascript html nodejs css
+488,Data Analyst,python excel statistics powerbi tableau
+489,Data Scientist,pandas scikit-learn numpy machine learning deep learning statistics
+490,Data Analyst,pandas data analysis powerbi tableau sql
+491,Business Analyst,reporting tableau excel business intelligence data analysis sql
+492,Data Scientist,pandas deep learning numpy scikit-learn
+493,Frontend Developer,ui/ux html css typescript
+494,AI Engineer,pytorch python deep learning neural networks nlp tensorflow
+495,Business Analyst,tableau excel sql business intelligence data analysis powerbi
+496,Backend Developer,api sql linux python docker flask
+497,Data Analyst,python pandas excel data analysis sql
+498,Frontend Developer,typescript ui/ux angular html
+499,DevOps Engineer,aws monitoring docker kubernetes
+500,Database Administrator,performance tuning mysql sql backup postgresql
+501,Database Administrator,sql mysql security backup postgresql
+502,Frontend Developer,html typescript css javascript react angular
+503,Business Analyst,reporting data analysis tableau business intelligence powerbi
+504,AI Engineer,python pytorch deep learning tensorflow nlp
+505,Web Developer,css responsive design nodejs git
+506,Data Analyst,python sql powerbi excel data analysis
+507,Data Scientist,pandas python numpy data visualization statistics
+508,Backend Developer,sql api linux python docker flask
+509,AI Engineer,pytorch tensorflow neural networks python nlp deep learning
+510,Business Analyst,powerbi tableau reporting data analysis
+511,Machine Learning Engineer,scikit-learn pytorch python mlops machine learning
+512,Business Analyst,powerbi business intelligence data analysis tableau sql
+513,AI Engineer,deep learning python pytorch neural networks nlp
+514,Database Administrator,sql backup performance tuning mysql database design security
+515,Data Scientist,data visualization deep learning scikit-learn python pandas numpy
+516,AI Engineer,neural networks nlp python pytorch tensorflow
+517,Backend Developer,linux docker python flask django api
+518,Data Analyst,pandas tableau excel sql
+519,Data Analyst,python data analysis excel powerbi sql
+520,Web Developer,react git html responsive design css
+521,Database Administrator,security postgresql backup mysql database design
+522,AI Engineer,tensorflow neural networks deep learning nlp pytorch python
+523,Business Analyst,reporting sql powerbi excel tableau data analysis
+524,Data Analyst,pandas python statistics data analysis sql excel
+525,Web Developer,react git nodejs css responsive design html
+526,Database Administrator,sql security database design postgresql
+527,Web Developer,html javascript responsive design git nodejs react
+528,AI Engineer,python pytorch deep learning tensorflow nlp
+529,Web Developer,git css react responsive design javascript
+530,Business Analyst,sql excel tableau reporting
+531,Data Scientist,deep learning python numpy machine learning pandas
+532,Database Administrator,database design postgresql backup security performance tuning
+533,Web Developer,css html git javascript
+534,Data Scientist,python scikit-learn pandas statistics
+535,Machine Learning Engineer,tensorflow mlops scikit-learn pytorch
+536,Database Administrator,mysql security sql performance tuning backup
+537,Database Administrator,mysql postgresql database design sql
+538,Machine Learning Engineer,mlops pytorch tensorflow scikit-learn machine learning
+539,Business Analyst,reporting powerbi excel business intelligence sql data analysis
+540,Database Administrator,postgresql database design backup security performance tuning sql
+541,AI Engineer,nlp neural networks deep learning python
+542,Backend Developer,python linux api docker
+543,Data Analyst,pandas excel python data analysis sql
+544,Web Developer,responsive design css nodejs git
+545,DevOps Engineer,linux monitoring docker aws
+546,Data Analyst,pandas excel powerbi tableau data analysis python
+547,Web Developer,javascript nodejs html react
+548,Data Analyst,python excel sql statistics pandas
+549,Data Analyst,pandas powerbi excel statistics
+550,Data Analyst,python powerbi pandas tableau data analysis statistics
+551,Machine Learning Engineer,tensorflow scikit-learn machine learning pytorch python mlops
+552,Data Scientist,data visualization statistics pandas numpy machine learning scikit-learn
+553,Data Analyst,sql pandas tableau python
+554,Data Analyst,powerbi statistics sql excel
+555,Frontend Developer,javascript css react ui/ux html
+556,Business Analyst,powerbi data analysis excel business intelligence tableau reporting
+557,DevOps Engineer,terraform monitoring ci/cd linux kubernetes aws
+558,Business Analyst,tableau sql business intelligence data analysis excel
+559,Frontend Developer,css javascript react angular html typescript
+560,AI Engineer,neural networks nlp python pytorch
+561,Machine Learning Engineer,machine learning mlops scikit-learn pytorch python deep learning
+562,Web Developer,git css react html responsive design nodejs
+563,DevOps Engineer,aws terraform docker linux ci/cd kubernetes
+564,Business Analyst,sql powerbi excel data analysis
+565,Backend Developer,api sql flask docker django linux
+566,Frontend Developer,ui/ux react html css typescript angular
+567,AI Engineer,python pytorch tensorflow neural networks deep learning
+568,Data Analyst,python statistics tableau data analysis
+569,Data Analyst,excel pandas data analysis statistics
+570,Data Scientist,deep learning scikit-learn data visualization pandas
+571,Web Developer,javascript html git nodejs
+572,Backend Developer,django sql flask api
+573,Data Scientist,statistics python scikit-learn data visualization deep learning pandas
+574,Machine Learning Engineer,mlops deep learning tensorflow python
+575,Frontend Developer,css ui/ux angular html
+576,Database Administrator,postgresql backup database design performance tuning security sql
+577,Business Analyst,sql tableau business intelligence excel data analysis powerbi
+578,Data Analyst,sql python powerbi statistics tableau
+579,Web Developer,nodejs html react responsive design git
+580,Web Developer,css nodejs git react javascript responsive design
+581,AI Engineer,nlp pytorch python tensorflow neural networks deep learning
+582,Data Scientist,numpy pandas data visualization deep learning
+583,Frontend Developer,react angular typescript ui/ux html javascript
+584,DevOps Engineer,kubernetes ci/cd aws terraform docker
+585,Data Scientist,python data visualization scikit-learn numpy deep learning machine learning
+586,Machine Learning Engineer,mlops pytorch deep learning machine learning scikit-learn
+587,DevOps Engineer,docker aws monitoring terraform
+588,Machine Learning Engineer,mlops pytorch deep learning machine learning
+589,Frontend Developer,typescript javascript angular css ui/ux
+590,Web Developer,react nodejs css git html
+591,DevOps Engineer,aws monitoring docker terraform
+592,Backend Developer,api django python docker sql flask
+593,Machine Learning Engineer,machine learning pytorch deep learning python
+594,Database Administrator,backup security performance tuning mysql postgresql
+595,Web Developer,responsive design css html nodejs
+596,Machine Learning Engineer,mlops deep learning machine learning python
+597,Machine Learning Engineer,python deep learning mlops scikit-learn
+598,AI Engineer,nlp tensorflow python pytorch neural networks deep learning
+599,Data Scientist,machine learning data visualization pandas scikit-learn
+600,DevOps Engineer,ci/cd monitoring docker aws linux
+601,Frontend Developer,css html react javascript
+602,Frontend Developer,react typescript css html ui/ux
+603,Machine Learning Engineer,python scikit-learn machine learning deep learning mlops
+604,Data Analyst,statistics excel powerbi sql
+605,Business Analyst,data analysis reporting tableau powerbi excel
+606,DevOps Engineer,terraform linux monitoring docker ci/cd kubernetes
+607,AI Engineer,pytorch deep learning tensorflow python
+608,Backend Developer,django linux docker api python flask
+609,Machine Learning Engineer,scikit-learn mlops machine learning pytorch
+610,Data Analyst,powerbi python tableau excel data analysis pandas
+611,Backend Developer,flask django python docker
+612,Business Analyst,tableau powerbi sql excel reporting
+613,Machine Learning Engineer,python tensorflow scikit-learn machine learning
+614,AI Engineer,tensorflow deep learning neural networks pytorch
+615,AI Engineer,tensorflow deep learning neural networks pytorch
+616,Web Developer,css nodejs react git responsive design
+617,Web Developer,css javascript html git
+618,Frontend Developer,typescript angular ui/ux react javascript
+619,Backend Developer,sql flask docker api django
+620,Database Administrator,database design performance tuning mysql sql security
+621,AI Engineer,deep learning python pytorch neural networks
+622,AI Engineer,neural networks nlp deep learning python tensorflow
+623,AI Engineer,nlp pytorch neural networks python deep learning tensorflow
+624,Business Analyst,business intelligence data analysis powerbi tableau reporting
+625,Data Scientist,data visualization statistics numpy deep learning
+626,Machine Learning Engineer,tensorflow python machine learning pytorch mlops
+627,Backend Developer,flask django docker linux
+628,Data Analyst,sql data analysis powerbi python
+629,Backend Developer,django linux api docker
+630,Backend Developer,python linux flask docker
+631,Machine Learning Engineer,mlops tensorflow scikit-learn deep learning
+632,Data Analyst,excel powerbi statistics pandas tableau data analysis
+633,Web Developer,git css react javascript
+634,Web Developer,git nodejs react html javascript css
+635,Data Scientist,statistics python data visualization numpy pandas machine learning
+636,Frontend Developer,typescript ui/ux html angular css javascript
+637,Database Administrator,security performance tuning sql mysql
+638,Business Analyst,sql reporting powerbi business intelligence
+639,Data Analyst,excel pandas statistics tableau sql
+640,Database Administrator,postgresql database design sql performance tuning mysql
+641,Data Analyst,sql statistics tableau pandas
+642,Web Developer,html git css nodejs
+643,DevOps Engineer,kubernetes aws docker monitoring ci/cd terraform
+644,Data Analyst,python tableau excel sql data analysis statistics
+645,DevOps Engineer,terraform monitoring kubernetes ci/cd
+646,Frontend Developer,css javascript ui/ux react
+647,Machine Learning Engineer,scikit-learn deep learning pytorch machine learning
+648,Business Analyst,business intelligence data analysis reporting tableau powerbi sql
+649,Frontend Developer,angular typescript react css
+650,Data Analyst,powerbi sql excel pandas
+651,Frontend Developer,ui/ux react typescript html css
+652,Data Analyst,python sql excel tableau data analysis statistics
+653,Database Administrator,security performance tuning sql mysql postgresql
+654,Web Developer,nodejs javascript git responsive design react
+655,DevOps Engineer,monitoring ci/cd aws docker
+656,Backend Developer,linux sql django python docker api
+657,Frontend Developer,react angular css ui/ux typescript html
+658,Web Developer,css git responsive design html nodejs javascript
+659,Machine Learning Engineer,pytorch machine learning mlops tensorflow scikit-learn
+660,Frontend Developer,react ui/ux javascript angular typescript
+661,Database Administrator,postgresql backup database design performance tuning
+662,Data Scientist,data visualization numpy scikit-learn deep learning
+663,Data Scientist,machine learning statistics deep learning scikit-learn pandas numpy
+664,Database Administrator,performance tuning security mysql backup
+665,AI Engineer,nlp tensorflow deep learning pytorch
+666,Database Administrator,mysql backup security sql
+667,Frontend Developer,javascript html ui/ux css react
+668,Business Analyst,sql excel business intelligence powerbi reporting tableau
+669,Backend Developer,python api sql django linux flask
+670,Backend Developer,api linux sql django docker flask
+671,DevOps Engineer,monitoring terraform docker ci/cd aws kubernetes
+672,AI Engineer,neural networks pytorch tensorflow python nlp
+673,AI Engineer,tensorflow python deep learning nlp pytorch
+674,Frontend Developer,html ui/ux javascript css react angular
+675,Web Developer,responsive design git html javascript react
+676,Data Analyst,data analysis pandas python excel
+677,Frontend Developer,javascript ui/ux css html angular
+678,Data Analyst,data analysis tableau excel powerbi
+679,DevOps Engineer,monitoring terraform ci/cd linux kubernetes
+680,Data Analyst,data analysis statistics excel sql
+681,Frontend Developer,html ui/ux javascript react typescript
+682,Web Developer,javascript css nodejs html react
+683,Machine Learning Engineer,deep learning pytorch machine learning mlops python
+684,Frontend Developer,html javascript css angular ui/ux
+685,Data Scientist,pandas deep learning data visualization machine learning statistics
+686,Web Developer,nodejs responsive design react git html
+687,Machine Learning Engineer,mlops tensorflow deep learning python scikit-learn machine learning
+688,Web Developer,html nodejs javascript responsive design react
+689,Backend Developer,python docker django api
+690,Database Administrator,mysql performance tuning backup sql database design postgresql
+691,Data Scientist,statistics pandas python deep learning numpy machine learning
+692,Web Developer,html nodejs git react
+693,AI Engineer,tensorflow python neural networks deep learning pytorch
+694,Web Developer,nodejs react css git javascript responsive design
+695,Web Developer,nodejs responsive design css git
+696,Data Scientist,python numpy data visualization machine learning statistics
+697,DevOps Engineer,linux monitoring terraform aws ci/cd docker
+698,Web Developer,css git html react
+699,Data Analyst,powerbi statistics tableau data analysis sql
+700,Data Analyst,sql excel tableau python
+701,Data Analyst,powerbi sql excel tableau
+702,AI Engineer,tensorflow pytorch neural networks python
+703,Frontend Developer,ui/ux react css angular typescript
+704,Backend Developer,linux docker sql django
+705,Data Scientist,pandas python numpy statistics data visualization machine learning
+706,Business Analyst,reporting sql tableau excel business intelligence
+707,Data Analyst,pandas sql data analysis excel
+708,Machine Learning Engineer,pytorch deep learning tensorflow mlops scikit-learn
+709,Database Administrator,backup sql mysql performance tuning security
+710,Backend Developer,linux django flask sql
+711,Data Scientist,pandas scikit-learn deep learning numpy
+712,Data Scientist,pandas statistics numpy scikit-learn python deep learning
+713,Database Administrator,database design backup mysql sql performance tuning postgresql
+714,DevOps Engineer,linux ci/cd kubernetes docker terraform
+715,DevOps Engineer,ci/cd aws linux monitoring terraform
+716,DevOps Engineer,ci/cd monitoring kubernetes aws docker
+717,Web Developer,nodejs javascript html react css git
+718,AI Engineer,tensorflow nlp python neural networks pytorch
+719,Database Administrator,backup performance tuning postgresql mysql security
+720,Machine Learning Engineer,python tensorflow pytorch deep learning
+721,Web Developer,javascript git html react responsive design
+722,Database Administrator,backup postgresql performance tuning sql database design
+723,Database Administrator,postgresql mysql database design sql backup performance tuning
+724,Business Analyst,sql tableau data analysis powerbi business intelligence
+725,Business Analyst,data analysis business intelligence reporting powerbi
+726,Data Analyst,python powerbi sql tableau data analysis
+727,AI Engineer,pytorch neural networks nlp tensorflow
+728,Data Analyst,excel statistics python pandas sql data analysis
+729,DevOps Engineer,aws kubernetes terraform docker monitoring
+730,Data Scientist,pandas deep learning data visualization statistics python
+731,DevOps Engineer,terraform kubernetes ci/cd monitoring linux
+732,Backend Developer,docker linux api flask django
+733,Backend Developer,linux sql python api
+734,Backend Developer,python api linux docker
+735,Database Administrator,mysql database design performance tuning backup
+736,Frontend Developer,html javascript angular css ui/ux
+737,Data Analyst,statistics pandas excel python tableau data analysis
+738,Database Administrator,database design backup performance tuning postgresql security mysql
+739,Database Administrator,postgresql security sql performance tuning backup
+740,DevOps Engineer,aws monitoring linux kubernetes docker
+741,AI Engineer,tensorflow pytorch nlp python deep learning
+742,DevOps Engineer,aws docker monitoring terraform ci/cd linux
+743,Database Administrator,security backup database design performance tuning
+744,Database Administrator,security performance tuning mysql database design sql backup
+745,Backend Developer,sql python api django docker flask
+746,Data Analyst,sql excel data analysis statistics
+747,Database Administrator,performance tuning database design security mysql
+748,Frontend Developer,html angular react css javascript typescript
+749,Backend Developer,flask sql linux api docker django
+750,AI Engineer,neural networks nlp deep learning python tensorflow
+751,Web Developer,git nodejs responsive design javascript react
+752,Data Scientist,data visualization deep learning machine learning statistics scikit-learn python
+753,Data Analyst,tableau data analysis python excel statistics sql
+754,DevOps Engineer,aws ci/cd monitoring kubernetes
+755,Business Analyst,excel tableau business intelligence powerbi data analysis reporting
+756,Data Analyst,python data analysis powerbi excel pandas sql
+757,Frontend Developer,ui/ux css typescript angular
+758,Data Analyst,data analysis tableau sql statistics excel
+759,AI Engineer,nlp deep learning pytorch tensorflow
+760,Machine Learning Engineer,mlops tensorflow python deep learning pytorch
+761,Backend Developer,linux flask docker sql api
+762,Backend Developer,api flask python docker sql
+763,AI Engineer,neural networks pytorch python deep learning nlp tensorflow
+764,Data Analyst,tableau sql statistics excel data analysis python
+765,DevOps Engineer,terraform kubernetes docker aws monitoring ci/cd
+766,DevOps Engineer,kubernetes monitoring terraform aws
+767,Machine Learning Engineer,scikit-learn mlops machine learning deep learning python
+768,Data Analyst,data analysis excel pandas statistics python
+769,Backend Developer,python sql django linux docker api
+770,Machine Learning Engineer,tensorflow scikit-learn python pytorch mlops
+771,Business Analyst,excel reporting tableau sql data analysis powerbi
+772,DevOps Engineer,aws terraform kubernetes docker linux monitoring
+773,DevOps Engineer,docker linux aws ci/cd
+774,AI Engineer,python neural networks tensorflow pytorch
+775,Data Scientist,deep learning pandas python data visualization numpy
+776,Frontend Developer,html ui/ux angular react
+777,Database Administrator,mysql security backup postgresql performance tuning database design
+778,Database Administrator,postgresql security performance tuning sql database design
+779,Backend Developer,linux django flask api python sql
+780,Business Analyst,tableau powerbi business intelligence sql excel
+781,DevOps Engineer,linux aws kubernetes ci/cd monitoring terraform
+782,Business Analyst,business intelligence sql powerbi reporting data analysis excel
+783,Machine Learning Engineer,deep learning tensorflow python pytorch machine learning mlops
+784,DevOps Engineer,linux docker kubernetes aws monitoring ci/cd
+785,Database Administrator,mysql database design performance tuning security
+786,Frontend Developer,html typescript ui/ux css
+787,Business Analyst,tableau powerbi data analysis business intelligence
+788,Machine Learning Engineer,scikit-learn machine learning tensorflow deep learning
+789,Data Analyst,statistics sql powerbi excel
+790,Machine Learning Engineer,pytorch tensorflow python deep learning scikit-learn
+791,Backend Developer,flask python linux django
+792,Data Scientist,statistics numpy python data visualization
+793,Frontend Developer,react ui/ux html javascript typescript
+794,Business Analyst,reporting powerbi excel business intelligence tableau sql
+795,Machine Learning Engineer,mlops deep learning pytorch tensorflow python scikit-learn
+796,Backend Developer,sql linux flask python docker api
+797,Web Developer,css git nodejs react
+798,Data Analyst,powerbi python excel statistics
+799,Business Analyst,reporting business intelligence powerbi data analysis sql
+800,AI Engineer,pytorch neural networks python nlp
+801,Database Administrator,sql database design security performance tuning
+802,DevOps Engineer,aws monitoring docker linux terraform
+803,DevOps Engineer,monitoring kubernetes terraform linux docker ci/cd
+804,AI Engineer,pytorch python nlp deep learning neural networks
+805,Business Analyst,tableau sql powerbi excel reporting
+806,Backend Developer,sql python flask api docker
+807,Business Analyst,tableau reporting sql business intelligence
+808,DevOps Engineer,monitoring ci/cd linux terraform
+809,Database Administrator,mysql backup security database design sql
+810,DevOps Engineer,kubernetes terraform linux docker monitoring
+811,Web Developer,html react git responsive design nodejs css
+812,Data Analyst,sql pandas tableau excel
+813,Data Scientist,machine learning deep learning python statistics scikit-learn pandas
+814,Database Administrator,mysql backup postgresql security performance tuning
+815,Web Developer,react git javascript css html responsive design
+816,Machine Learning Engineer,machine learning tensorflow python deep learning
+817,Backend Developer,api sql docker django linux
+818,Business Analyst,excel sql tableau data analysis powerbi
+819,Frontend Developer,react angular html css typescript ui/ux
+820,Business Analyst,reporting excel sql business intelligence tableau
+821,Web Developer,nodejs responsive design javascript git html
+822,Web Developer,html git css nodejs
+823,DevOps Engineer,aws kubernetes ci/cd terraform
+824,Data Scientist,machine learning python deep learning scikit-learn pandas
+825,Frontend Developer,css ui/ux react typescript html javascript
+826,Database Administrator,sql performance tuning database design security
+827,Backend Developer,python api linux docker django
+828,Frontend Developer,react javascript angular html ui/ux
+829,DevOps Engineer,docker linux kubernetes terraform
+830,Data Analyst,powerbi python data analysis excel
+831,Data Scientist,numpy python pandas scikit-learn statistics deep learning
+832,Database Administrator,database design performance tuning sql postgresql
+833,Web Developer,css javascript react nodejs responsive design git
+834,Database Administrator,performance tuning sql postgresql database design mysql backup
+835,Data Analyst,statistics tableau powerbi python pandas excel
+836,Data Scientist,python scikit-learn machine learning deep learning numpy
+837,DevOps Engineer,terraform ci/cd linux monitoring docker
+838,AI Engineer,python pytorch tensorflow deep learning
+839,Business Analyst,business intelligence reporting powerbi sql
+840,Machine Learning Engineer,pytorch machine learning scikit-learn mlops python
+841,Data Analyst,excel data analysis tableau sql pandas
+842,DevOps Engineer,kubernetes monitoring aws terraform docker
+843,AI Engineer,tensorflow python nlp pytorch
+844,Data Scientist,numpy pandas statistics python machine learning scikit-learn
+845,DevOps Engineer,terraform linux aws monitoring
+846,Backend Developer,python linux django sql
+847,DevOps Engineer,aws ci/cd monitoring kubernetes
+848,DevOps Engineer,linux monitoring ci/cd docker kubernetes terraform
+849,Database Administrator,backup database design sql mysql
+850,Machine Learning Engineer,tensorflow python pytorch scikit-learn
+851,DevOps Engineer,linux docker monitoring kubernetes terraform ci/cd
+852,Frontend Developer,javascript angular html ui/ux react
+853,AI Engineer,neural networks python pytorch tensorflow deep learning nlp
+854,Data Analyst,sql statistics python powerbi excel pandas
+855,Data Scientist,deep learning python statistics data visualization machine learning
+856,Data Analyst,statistics tableau pandas sql powerbi
+857,DevOps Engineer,docker aws linux ci/cd
+858,Data Analyst,excel sql pandas powerbi statistics
+859,Machine Learning Engineer,scikit-learn pytorch python deep learning
+860,Frontend Developer,angular html ui/ux javascript react
+861,Backend Developer,api django python flask
+862,Business Analyst,sql tableau powerbi data analysis reporting
+863,AI Engineer,deep learning neural networks tensorflow python pytorch nlp
+864,Machine Learning Engineer,deep learning python machine learning pytorch mlops
+865,Frontend Developer,html typescript react angular css
+866,Frontend Developer,angular javascript html css
+867,Database Administrator,database design backup performance tuning postgresql mysql security
+868,Machine Learning Engineer,machine learning pytorch tensorflow deep learning
+869,Data Scientist,python machine learning statistics data visualization deep learning
+870,Web Developer,css javascript responsive design html git react
+871,Machine Learning Engineer,pytorch deep learning machine learning scikit-learn
+872,Database Administrator,backup security mysql sql postgresql database design
+873,Frontend Developer,angular html react ui/ux javascript
+874,Business Analyst,sql excel tableau powerbi reporting data analysis
+875,Data Scientist,numpy python machine learning statistics
+876,Frontend Developer,ui/ux react angular css javascript html
+877,Database Administrator,backup performance tuning database design postgresql mysql security
+878,Web Developer,html css javascript nodejs responsive design react
+879,Backend Developer,sql flask api linux
+880,DevOps Engineer,linux aws monitoring terraform kubernetes
+881,Backend Developer,api flask linux python docker
+882,Data Scientist,statistics numpy machine learning scikit-learn deep learning
+883,Data Scientist,pandas statistics python deep learning numpy
+884,Data Analyst,python excel tableau data analysis pandas powerbi
+885,Frontend Developer,javascript typescript html angular ui/ux
+886,Web Developer,html responsive design react css
+887,DevOps Engineer,ci/cd docker linux terraform kubernetes aws
+888,Business Analyst,sql data analysis tableau reporting powerbi
+889,Machine Learning Engineer,machine learning deep learning mlops scikit-learn python pytorch
+890,Data Scientist,numpy python deep learning scikit-learn machine learning pandas
+891,Data Scientist,python scikit-learn pandas deep learning data visualization
+892,Backend Developer,flask docker linux sql django api
+893,Business Analyst,powerbi data analysis reporting tableau
+894,Business Analyst,tableau reporting business intelligence data analysis sql
+895,Backend Developer,django linux api python sql
+896,DevOps Engineer,kubernetes terraform docker aws ci/cd
+897,Machine Learning Engineer,python tensorflow mlops scikit-learn machine learning deep learning
+898,Data Scientist,statistics pandas python data visualization scikit-learn
+899,Web Developer,react responsive design javascript git css html
+900,Web Developer,html css git nodejs javascript react
+901,Frontend Developer,react html javascript css angular
+902,AI Engineer,deep learning python neural networks tensorflow nlp
+903,Backend Developer,api sql django docker
+904,DevOps Engineer,ci/cd docker terraform monitoring
+905,Backend Developer,api django linux flask
+906,AI Engineer,pytorch neural networks tensorflow python deep learning nlp
+907,Data Scientist,python machine learning deep learning scikit-learn
+908,Frontend Developer,typescript ui/ux angular css html
+909,DevOps Engineer,kubernetes aws linux terraform docker monitoring
+910,Web Developer,css nodejs responsive design react
+911,Business Analyst,business intelligence tableau powerbi data analysis excel
+912,Backend Developer,django docker flask sql api linux
+913,DevOps Engineer,kubernetes docker linux ci/cd
+914,Backend Developer,django api docker python
+915,Database Administrator,mysql backup postgresql performance tuning
+916,DevOps Engineer,monitoring ci/cd docker linux
+917,Database Administrator,backup postgresql sql security database design performance tuning
+918,Backend Developer,flask python sql linux api docker
+919,Database Administrator,postgresql security mysql database design performance tuning backup
+920,Machine Learning Engineer,machine learning scikit-learn tensorflow mlops python pytorch
+921,Data Analyst,sql powerbi data analysis statistics excel python
+922,Business Analyst,reporting powerbi sql tableau data analysis
+923,DevOps Engineer,kubernetes ci/cd docker aws terraform
+924,Data Analyst,statistics tableau pandas data analysis sql
+925,Database Administrator,database design sql backup security performance tuning postgresql
+926,Data Analyst,statistics data analysis powerbi tableau
+927,Business Analyst,powerbi reporting sql data analysis tableau excel
+928,DevOps Engineer,ci/cd docker monitoring linux aws
+929,DevOps Engineer,monitoring terraform kubernetes docker linux
+930,Web Developer,git react responsive design nodejs javascript html
+931,Data Scientist,scikit-learn statistics data visualization python
+932,Machine Learning Engineer,deep learning mlops pytorch scikit-learn python
+933,Machine Learning Engineer,deep learning mlops machine learning pytorch python
+934,Data Scientist,numpy scikit-learn deep learning data visualization
+935,Database Administrator,sql backup performance tuning postgresql security
+936,Business Analyst,powerbi excel reporting tableau
+937,DevOps Engineer,linux aws kubernetes docker
+938,Data Scientist,python numpy data visualization machine learning statistics deep learning
+939,Data Analyst,excel python powerbi statistics
+940,Backend Developer,python django sql flask
+941,Data Scientist,numpy pandas data visualization python
+942,Data Scientist,data visualization numpy scikit-learn deep learning
+943,Machine Learning Engineer,python tensorflow mlops machine learning
+944,Data Analyst,python tableau powerbi statistics data analysis sql
+945,Data Analyst,tableau excel powerbi sql
+946,Backend Developer,python linux sql flask api django
+947,AI Engineer,neural networks python pytorch nlp
+948,Data Analyst,pandas sql statistics data analysis powerbi
+949,DevOps Engineer,docker aws monitoring linux
+950,Business Analyst,reporting data analysis tableau sql excel business intelligence
+951,Frontend Developer,css javascript html ui/ux
+952,Web Developer,javascript css responsive design nodejs
+953,Database Administrator,security sql performance tuning mysql
+954,Machine Learning Engineer,deep learning pytorch scikit-learn mlops
+955,Database Administrator,postgresql performance tuning database design mysql security
+956,DevOps Engineer,aws terraform docker linux
+957,Machine Learning Engineer,tensorflow mlops deep learning python pytorch
+958,Web Developer,responsive design css javascript nodejs react git
+959,AI Engineer,pytorch tensorflow neural networks deep learning python
+960,Business Analyst,powerbi reporting business intelligence data analysis
+961,Frontend Developer,css angular ui/ux typescript javascript
+962,Data Analyst,pandas python tableau data analysis statistics excel
+963,Frontend Developer,ui/ux angular html typescript css react
+964,AI Engineer,pytorch python deep learning tensorflow nlp
+965,Machine Learning Engineer,deep learning scikit-learn tensorflow machine learning mlops pytorch
+966,Data Scientist,numpy pandas python data visualization scikit-learn statistics
+967,Machine Learning Engineer,deep learning python tensorflow scikit-learn
+968,Database Administrator,mysql security postgresql performance tuning backup sql
+969,AI Engineer,neural networks deep learning tensorflow nlp python pytorch
+970,Business Analyst,excel data analysis powerbi tableau sql business intelligence
+971,AI Engineer,pytorch deep learning neural networks nlp tensorflow python
+972,AI Engineer,tensorflow pytorch deep learning neural networks nlp python
+973,Database Administrator,postgresql database design sql backup performance tuning
+974,Data Analyst,data analysis python sql tableau powerbi excel
+975,Data Scientist,statistics deep learning pandas python
+976,Data Scientist,pandas numpy machine learning statistics scikit-learn
+977,Backend Developer,api linux sql flask
+978,AI Engineer,neural networks tensorflow pytorch nlp deep learning
+979,DevOps Engineer,monitoring ci/cd terraform docker kubernetes
+980,Data Analyst,python pandas data analysis tableau statistics
+981,Backend Developer,sql linux api python docker django
+982,Backend Developer,sql api docker python linux django
+983,Data Scientist,pandas scikit-learn deep learning statistics python numpy
+984,Data Analyst,sql statistics excel pandas powerbi
+985,Web Developer,css javascript responsive design nodejs html
+986,Data Analyst,sql powerbi statistics tableau
+987,Data Analyst,tableau sql data analysis powerbi
+988,Database Administrator,database design postgresql mysql backup
+989,Backend Developer,api docker linux django
+990,Web Developer,git nodejs css javascript
+991,Database Administrator,backup database design security performance tuning mysql postgresql
+992,Data Scientist,python data visualization pandas deep learning scikit-learn statistics
+993,Database Administrator,backup sql postgresql mysql security performance tuning
+994,Data Analyst,excel data analysis sql statistics python
+995,Database Administrator,sql postgresql backup mysql database design
+996,Data Analyst,tableau python powerbi data analysis
+997,Business Analyst,data analysis excel sql tableau
+998,Data Analyst,tableau statistics data analysis sql
+999,Frontend Developer,react html typescript css javascript
+1000,Data Scientist,statistics machine learning scikit-learn pandas deep learning
